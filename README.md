@@ -9,6 +9,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Namkhasnh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Namkhasnh&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://github.com/Namkhasnh/Weather_prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Namkhasnh&repo=Weather_prediction&theme=merko" />
+</a>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
